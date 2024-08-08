@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.logo{
+    font-family: "Dancing Script", cursive;
+}
+
+.hero{
+    background-image: url("https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NjV8fHxlbnwwfHx8fHw%3D");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.serviceBox{
+    font-family: "Quicksand", sans-serif;
+}
